@@ -1,4 +1,4 @@
-<h1 align="center">💸 AI-Finance-Platform</h1>
+<h1 align="center">💸 Finance-Tracker</h1>
 
 <p align="center">
   A smart, modern finance tracking platform powered by AI — manage accounts, track expenses, generate insights, and receive smart email reports.
@@ -37,7 +37,7 @@
 ## 🖼️ Demo Screenshot
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/AryanJiyani007/AI-Finance-Platform/main/public/demo.png" alt="AI-Finance-Platform Demo" />
+  <img width="100%" src="https://raw.githubusercontent.com/AryanJiyani007/Finance-Tracker/main/public/demo.png" alt="AI-Finance-Platform Demo" />
 </p>
 
 
